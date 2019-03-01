@@ -92,7 +92,7 @@ function drawAmeba() {
 	push();
 	randomSeed(1)
 	noStroke();
-	fill(255, 255, 0);
+	fill(255);
 	translate(centerX, centerY);
 	// rotate(radians(degree * 5));
 	
