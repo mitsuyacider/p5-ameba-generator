@@ -1,5 +1,5 @@
 ## How to use
-Open index.html in your browser and adjust parameter  you like.
+Open index.html in your browser and adjust parameter as you like.
 You can test on [OpenProcessing](https://www.openprocessing.org/sketch/674184) as well.
 
 ## Gallery
